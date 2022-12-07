@@ -1,0 +1,14 @@
+body {
+    background-image: url();
+}
+
+.col { 
+    color: black; 
+    columns: 3 300px;
+    text-align: justify;
+    font-size: 20px;
+    column-gap: 30;
+    column-rule: 2px;
+
+
+}
